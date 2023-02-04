@@ -32,5 +32,5 @@ Follow these steps if you want to get a local copy of the project on your machin
 
 #### 1. Clone or fork the repository by running the command below	
 ```
-git clone https://github.com/Ekta-jain/DynamicUiSample
+git clone https://github.com/Ekta-jain/CustomUiSample
 
