@@ -1,5 +1,8 @@
-# DynamicUiSample
-Dynamic UI Inflation - Used Hilt + MVVM + Kotlin
+# CustomUiSample - Build an app to render a custom UI. The app will have 2 modules:
+- Network Module : Hilt Integration + API Integration (Retrofit)
+- App Module : Inflated Custom UI using getCustomUI API from Network module
+
+# Dynamic UI Inflation - Used Hilt + MVVM + Kotlin
 
 
 ### Output Screenshots and Videos
